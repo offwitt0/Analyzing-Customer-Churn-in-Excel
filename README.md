@@ -10,28 +10,13 @@
 ### Metadata
 
    *Customer status
+      | Header 1 | Header 2 |
+      |----------|----------|
+      | Customer ID: | The unique ID that identifies a customer. |
+      | Churn Label: | Contains “Yes” or “No” to indicate if a customer churned. |
+      | Churn Category: | Groups multiple churn reasons together for analysis purposes. |
+      | Churn Reason: | The particular reason why the customer ended the contract. |
 
-| Customer ID | 
-|Churn Label | 
-|Churn Category | 
-|Churn Reason |
-|---|---|---|---|
-
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
-| Row 3, Col 1 | Row 3, Col 2 |
-
-
-
-
-| :-: | :-: |
-| Customer ID: | The unique ID that identifies a customer. |
-| Churn Label: | Contains “Yes” or “No” to indicate if a customer churned. |
-| Churn Category: | Groups multiple churn reasons together for analysis purposes. |
-| Churn Reason: | The particular reason why the customer ended the contract. |
 
 |Demographics:|
 
