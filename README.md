@@ -9,10 +9,12 @@
    
 ### Metadata
 
+   *Customer status
 
-
-
-| Customer ID | Churn Label | Churn Category | Churn Reason |
+| Customer ID | 
+|Churn Label | 
+|Churn Category | 
+|Churn Reason |
 |---|---|---|---|
 
 
@@ -25,12 +27,6 @@
 
 
 
-
-
-
-
-
-| Customer status: |
 | :-: | :-: |
 | Customer ID: | The unique ID that identifies a customer. |
 | Churn Label: | Contains “Yes” or “No” to indicate if a customer churned. |
