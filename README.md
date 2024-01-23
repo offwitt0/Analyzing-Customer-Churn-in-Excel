@@ -8,12 +8,12 @@
 4.	Build a dashboard or story so you can cohesively share the Information.
 # Metadata
 
-|Customer status:|
+| Customer status: |
 | :-: | :-: | :-: | :-: | :-: |
-|Customer ID:| The unique ID that identifies a customer.|
-|Churn Label:| Contains “Yes” or “No” to indicate if a customer churned.|
-|Churn Category:| Groups multiple churn reasons together for analysis purposes.|
-|Churn Reason:| The particular reason why the customer ended the contract.|
+| Customer ID: | The unique ID that identifies a customer. |
+| Churn Label: | Contains “Yes” or “No” to indicate if a customer churned. |
+| Churn Category: | Groups multiple churn reasons together for analysis purposes. |
+| Churn Reason: | The particular reason why the customer ended the contract. |
 
 |Demographics:|
 
