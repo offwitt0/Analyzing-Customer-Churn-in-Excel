@@ -1,35 +1,35 @@
-Analyzing      
-Customer Churn in Excel
+# Analyzing Customer Churn in Excel
 
--Project Steps- 🧑‍💻
+# -Project Steps- 🧑‍💻
 
 1.	Perform a data check.
 2.	Ask different business questions and explore the data.
 3.	Discover Insights and visualize them using suitable visualizations.
 4.	Build a dashboard or story so you can cohesively share the Information.
-Metadata
-Customer status:
+# Metadata
 
-Customer ID: The unique ID that identifies a customer.
-Churn Label: Contains “Yes” or “No” to indicate if a customer churned.
-Churn Category: Groups multiple churn reasons together for analysis purposes.
-Churn Reason: The particular reason why the customer ended the contract.
+|Customer status:|
 
-Demographics:
+|Customer ID:| The unique ID that identifies a customer.|
+|Churn Label:| Contains “Yes” or “No” to indicate if a customer churned.|
+|Churn Category:| Groups multiple churn reasons together for analysis purposes.|
+|Churn Reason:| The particular reason why the customer ended the contract.|
 
-Gender: The gender of the customer, indicated by “Male”, “Female” or “Prefer not to say”.
-Age: The age of the customer.
-Under 30: Indicates if the customer is under 30 with “Yes” or “No”.
-Senior: Indicates if the customer is above 65 with “Yes” or “No”.
+|Demographics:|
 
-Contract information:
+|Gender:| The gender of the customer, indicated by “Male”, “Female” or “Prefer not to say”.|
+|Age:| The age of the customer.|
+|Under 30:| Indicates if the customer is under 30 with “Yes” or “No”.|
+|Senior:| Indicates if the customer is above 65 with “Yes” or “No”.|
 
-Contract Type: Contains “Month to Month”, “One Year” or “Two Year”.
-Payment Method: Preferred payment method of the customer indicated with “Credit Card”, “Direct Debit” or “Paper Check”.
-State: The code of the state where the customer lives.
-Phone Number: Phone number of the customer.
-Group: Indicates if the customer is part of a group contract. A group contract offers advantages and is generally cheaper. Contains “Yes” or “No”.
-Number of customers in a group: Number of customers part of the group.
+|Contract information:|
+
+|Contract Type:| Contains “Month to Month”, “One Year” or “Two Year”.|
+|Payment Method:| Preferred payment method of the customer indicated with “Credit Card”, “Direct Debit” or “Paper Check”.|
+|State:| The code of the state where the customer lives.|
+|Phone Number:| Phone number of the customer.|
+|Group:| Indicates if the customer is part of a group contract. A group contract offers advantages and is generally cheaper. Contains “Yes” or “No”.|
+Number of customers in a group: Number of customers part of the group.|
 
 Subscription types & Charges:
 
